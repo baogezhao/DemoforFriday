@@ -5,7 +5,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
- *
+ * got from parttime
  * @author zhaob
  */
 public class PartTimeStudent {
